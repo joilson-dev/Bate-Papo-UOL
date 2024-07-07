@@ -1,0 +1,14 @@
+@import url('reset.css');
+
+@import url('header.css');
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #F3F3F3;
+}
