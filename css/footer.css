@@ -40,7 +40,7 @@ footer img {
     opacity: 0px;
 }
 
-.message {
+.SendMessage {
     display: flex;
     flex-direction: column;
     width: 100vw;
